@@ -1,0 +1,3 @@
+[submodule "aws-lambda-docker"]
+	path = aws-lambda-docker
+	url = https://github.com/pixegami/aws-lambda-docker.git
